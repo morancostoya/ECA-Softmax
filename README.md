@@ -7,4 +7,4 @@ Requirements:
     - pandas
     - scipy
     - scikit-learn
-  - Jupyter notebook
+  - Jupyter notebook

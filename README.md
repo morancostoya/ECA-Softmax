@@ -8,3 +8,4 @@ We combine elementary cellular automata and softmax regression with L2 regulariz
     - scipy
     - scikit-learn
   - Jupyter notebook
+  - MNIST database
